@@ -2,4 +2,4 @@
 
 The .py files contain the code to create the normal distribution and the png file is the visualization output.
 
-Requirements: python3.9 numpy>
+Requirements: python3.9 numpy>vx.x matlab
